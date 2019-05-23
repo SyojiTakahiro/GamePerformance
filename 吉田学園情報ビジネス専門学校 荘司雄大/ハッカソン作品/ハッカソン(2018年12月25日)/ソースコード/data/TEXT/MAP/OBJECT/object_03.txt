@@ -1,0 +1,1883 @@
+#******************************************************************************
+#
+#       配置物情報スクリプトファイル[save_object.txt]
+#       Auther : Hodaka Niwa
+#
+#******************************************************************************
+SCRIPT				#この行は絶対に消さないこと！
+
+#------------------------------------------------------------------------------
+#  モデル情報
+#------------------------------------------------------------------------------
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -900.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -500.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -450.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -400.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -200.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -100.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 50.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 100.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 300.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 350.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 600.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 850.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 900.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 0.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -900.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -500.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -400.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -200.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -100.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 50.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 300.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 350.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 900.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 150.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -900.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -500.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -450.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -400.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -100.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 50.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 100.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 350.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 600.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 850.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 300.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -500.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -450.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -200.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -100.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 100.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 300.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 350.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 850.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 900.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 450.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -900.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -450.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -400.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -200.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 50.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 100.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 300.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 600.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 900.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 600.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -1000.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -950.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -900.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -850.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -800.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -750.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -700.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -650.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -600.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -550.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -500.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -450.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -400.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -350.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -300.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -250.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -200.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -150.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -100.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = -50.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 0.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 50.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 100.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 150.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 200.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 250.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 300.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 350.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 400.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 450.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 500.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 550.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 600.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 650.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 700.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 750.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 800.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 850.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 900.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 950.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 2						# 使用するモデルの番号
+	POS = 1000.0 750.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -450.0 115.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 100.0 115.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 600.0 115.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 850.0 115.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -200.0 265.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 300.0 265.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 900.0 265.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -900.0 415.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -400.0 415.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 50.0 415.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 600.0 415.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -500.0 565.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = -0.0 -2.5 -0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = -100.0 565.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 350.0 565.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTMOVESET
+	TYPE = 3						# 使用するモデルの番号
+	POS = 850.0 565.0 0.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+	MOVE = 0.0 2.5 0.0				# モデルの移動量
+	MOVE_MAX = 100					# 移動量を切り替える時間
+END_OBJECTMOVESET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 10.0 0.0 519.7			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -346.0 0.0 512.6			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -707.6 0.0 683.6			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -506.5 0.0 949.8			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -150.6 0.0 1205.8			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 241.7 0.0 953.4			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 484.0 0.0 610.7			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 912.0 0.0 583.9			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 746.2 0.0 951.0			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 538.4 0.0 1299.7			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 205.0 0.0 1526.9			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -350.4 0.0 1499.1			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -730.6 0.0 1188.4			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -1111.7 0.0 767.2			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -1133.7 0.0 359.2			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = -1505.6 0.0 661.3			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+OBJECTSET
+	TYPE = 0						# 使用するモデルの番号
+	POS = 667.5 0.0 346.8			# モデルの座標
+	ROT = 0.0 0.0 0.0				# モデルの向き
+	ROLL_SPEED = 0.0 0.0 0.0		# モデルの回転するスピード
+END_OBJECTSET
+
+END_SCRIPT				#この行は絶対に消さないこと！

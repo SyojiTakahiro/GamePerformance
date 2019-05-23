@@ -1,0 +1,1692 @@
+#==============================================================================
+#
+# 『モデルビューワ』スクリプトファイル [model.txt]
+#  Author : Hodaka Niwa
+#
+#==============================================================================
+
+#------------------------------------------------------------------------------
+# 読み込むモデル数
+#------------------------------------------------------------------------------
+NUM_MODEL = 10
+
+#------------------------------------------------------------------------------
+# 読み込むモデルファイル名
+#------------------------------------------------------------------------------
+MODEL_FILENAME = data/MODEL/doorwall.x		// 0 ドア付き壁
+MODEL_FILENAME = data/MODEL/numberwall.x	// 1 ナンバー壁
+MODEL_FILENAME = data/MODEL/orangewall.x	// 2 オレンジ壁
+MODEL_FILENAME = data/MODEL/wall2.x			// 3 普通壁
+MODEL_FILENAME = data/MODEL/dai.x			// 4 台
+MODEL_FILENAME = data/MODEL/dai2.x			// 5 台２
+MODEL_FILENAME = data/MODEL/dai3.x			// 6 台3
+MODEL_FILENAME = data/MODEL/kaidan.x		// 7 階段
+MODEL_FILENAME = data/MODEL/elevator.x		// 8 エレベーター
+MODEL_FILENAME = data/MODEL/bou.x		// 9 棒
+
+#------------------------------------------------------------------------------
+# 表示するモデルの配置情報
+#------------------------------------------------------------------------------
+MODELSET
+    TYPE = 8
+	POS = 0.0 0.0 700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 8
+	POS = 400 0.0 700 
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 8
+	POS = 800 0.0 700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 8
+	POS = -400 0.0 700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+
+MODELSET
+    TYPE = 9
+	POS = 0 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 100 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 300 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 500 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 600 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 800 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 1000 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 1200 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 14000 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = 0 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -100 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -300 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -500 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -600 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -800 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -1000 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -1200 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 9
+	POS = -14000 350 1550
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+//============
+// 壁配置
+//============
+MODELSET
+    TYPE = 2
+	POS = 0 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 100 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 300 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 200 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 400 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 500 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 600 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 700 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 800 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 900 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1000 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1100 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1200 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1300 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1400 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -100 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -300 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -200 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -400 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -500 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -600 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -700 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -800 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -900 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1000 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1100 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1200 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1300 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1400 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+//=================
+// 壁下の台
+//=================
+
+MODELSET
+    TYPE = 7
+	POS = -100 00 1320
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -100 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -200 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -300 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -400 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -500 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -600 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -700 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -800 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -900 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1000 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1100 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1200 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1280 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -1370.0 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = -1450.0 00 1300
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+
+MODELSET
+    TYPE = 5
+	POS = 100 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 200 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 300 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 400 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 500 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 600 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 700 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 800 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 900 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1000 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1100 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1200 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1280 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = 1370.0 00 1420
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = 1450.0 00 1300
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+//============================================================================================
+// 壁配置2
+//============================================================================================
+
+MODELSET
+    TYPE = 2
+	POS = 0 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 100 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 300 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 200 100 -1500
+	rot = 0.0 3.140 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 400 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 500 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 600 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 700 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 800 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 900 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1000 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1100 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1200 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1300 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1400 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -100 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -300 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -200 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -400 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -500 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -600 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -700 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -800 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -900 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1000 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1100 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1200 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1300 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1400 100 -1500
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 1500
+	rot = 0.0 0.0 0.0
+END_MODELSET
+
+//=================
+// 壁下の台
+//=================
+
+MODELSET
+    TYPE = 7
+	POS = -100 00 -1320
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -100 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -200 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -300 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -400 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -500 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -600 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -700 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -800 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -900 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1000 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1100 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1200 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1280 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -1370.0 0 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = -1450.0 00 -1300
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+
+MODELSET
+    TYPE = 5
+	POS = 100 0.0 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 200 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 300 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 400 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 500 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 600 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 700 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 800 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 900 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1000 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1100 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1200 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1280 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = 1370.0 00 -1420
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = 1450.0 00 -1300
+	rot = 0.0 3.14 0.0
+END_MODELSET
+
+//=================================================================================================
+// 壁３
+//================================================================================================
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 0
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1500 100 100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1500 100 300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 600
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 800
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 900
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 1000
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1500 100 1100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 1200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 1300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1500 100 1400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 1500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1500 100 -1500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1500 100 -1400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -1300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1500 100 -1200
+	rot = 0.0 1.574 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -1100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 -1000
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 -900
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -800
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 -700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -600
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = 1500 100 -500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = 1500 100 -300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = 1500 100 -100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = 1500 100 -200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+//===============================================================================
+// 壁下の台
+//================================================================================
+
+MODELSET
+    TYPE = 6
+	POS = 1420 00 0
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1420 00 100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1420 00 300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 600
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 800
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 900
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 1000
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 1100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 1200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 1300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 1400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = 1500.0 0 1500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = 1500.0 00 100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+
+MODELSET
+    TYPE = 5
+	POS = 1500 0.0 -200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -600
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -700
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -800
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -900
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -1000
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -1100
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -1200
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -1300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = 1500 00 -1400
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = 1500.0 00 -1500
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = 1500.0 00 -1300
+	rot = 0.0 1.57 0.0
+END_MODELSET
+
+
+//===========================================================================================
+// 壁４
+//===========================================================================================
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 0
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1500 100 100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 -300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 600
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 700
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 800
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 900
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 1000
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 1100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 1200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 1300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1500 100 1400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 1500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1500 100 -1500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 -1400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -1300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 -1200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -1100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 -1000
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 -900
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -800
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 -700
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -600
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 1
+	POS = -1500 100 -500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 3
+	POS = -1500 100 -300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 0
+	POS = -1500 100 -100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 2
+	POS = -1500 100 -200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+//===============================================================================
+// 壁下の台
+//================================================================================
+
+MODELSET
+    TYPE = 6
+	POS = -1420 00 0
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1420 00 100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1420 00 300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 600
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 700
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 800
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 900
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 1000
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 1100
+	rot = 0.0-1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 1200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 1300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 1400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -1500.0 0 1500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = -1500.0 00 100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+
+MODELSET
+    TYPE = 5
+	POS = -1500 0.0 -200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -600
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -700
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -800
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -900
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -1000
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -1100
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -1200
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -1300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 5
+	POS = -1500 00 -1400
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 6
+	POS = -1500.0 00 -1500
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+
+MODELSET
+    TYPE = 7
+	POS = -1500.0 00 -1300
+	rot = 0.0 -1.57 0.0
+END_MODELSET
+

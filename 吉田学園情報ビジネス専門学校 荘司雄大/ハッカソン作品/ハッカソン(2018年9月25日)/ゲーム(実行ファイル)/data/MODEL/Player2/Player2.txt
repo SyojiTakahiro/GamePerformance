@@ -1,0 +1,15 @@
+MODEL_FILENAME = data/MODEL/Player2/00_bodyD_P2.x	# [0]腹
+MODEL_FILENAME = data/MODEL/Player2/01_bodyU_P2.x	# [1]胸
+MODEL_FILENAME = data/MODEL/Player2/02_head_P2.x	# [2]頭
+MODEL_FILENAME = data/MODEL/Player2/03_armUR_P2.x	# [3]右上腕
+MODEL_FILENAME = data/MODEL/Player2/04_armDR_P2.x	# [4]右前腕
+MODEL_FILENAME = data/MODEL/Player2/05_handR_P2.x	# [5]右手
+MODEL_FILENAME = data/MODEL/Player2/06_armUL_P2.x	# [6]左上腕
+MODEL_FILENAME = data/MODEL/Player2/07_armDL_P2.x	# [7]左前腕
+MODEL_FILENAME = data/MODEL/Player2/08_handL_P2.x	# [8]左手
+MODEL_FILENAME = data/MODEL/Player2/09_legUR_P2.x	# [9]右腿
+MODEL_FILENAME = data/MODEL/Player2/10_legDR_P2.x	# [10]右脛
+MODEL_FILENAME = data/MODEL/Player2/11_footR_P2.x	# [11]右足
+MODEL_FILENAME = data/MODEL/Player2/12_legUL_P2.x	# [12]左腿
+MODEL_FILENAME = data/MODEL/Player2/13_legDL_P2.x	# [13]左脛
+MODEL_FILENAME = data/MODEL/Player2/14_footL_P2.x	# [14]左足
