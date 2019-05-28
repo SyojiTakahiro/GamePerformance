@@ -1,0 +1,62 @@
+#******************************************************************************
+#
+#       マップ情報スクリプトファイル[map_game.txt]
+#       Auther : Hodaka Niwa
+#
+#******************************************************************************
+SCRIPT				#この行は絶対に消さないこと！
+
+#------------------------------------------------------------------------------
+#  使用するテクスチャ数
+#------------------------------------------------------------------------------
+NUM_TEXTURE = 4
+
+#------------------------------------------------------------------------------
+#  使用するテクスチャのファイルパス名
+#------------------------------------------------------------------------------
+TEXTURE_FILENAME = data/TEXTURE/COMMON/field000.jpg
+TEXTURE_FILENAME = data/TEXTURE/COMMON/mountain000.png
+TEXTURE_FILENAME = data/TEXTURE/COMMON/sky000.jpg
+TEXTURE_FILENAME = data/TEXTURE/COMMON/bridge000.jpg
+
+#------------------------------------------------------------------------------
+#  使用するモデル数
+#------------------------------------------------------------------------------
+NUM_MODEL = 15
+
+#------------------------------------------------------------------------------
+#  使用するモデルのファイルパス名
+#------------------------------------------------------------------------------
+MODEL_FILENAME = data/MODEL/OBJECT/wood000.x				#0
+MODEL_FILENAME = data/MODEL/OBJECT/wood001.x				#1
+MODEL_FILENAME = data/MODEL/OBJECT/rock000.x				#2
+MODEL_FILENAME = data/MODEL/OBJECT/rock001.x				#3
+MODEL_FILENAME = data/MODEL/OBJECT/bill000.x		  // ビル000 4
+MODEL_FILENAME = data/MODEL/OBJECT/bill001.x		 // ビル001 5
+MODEL_FILENAME = data/MODEL/OBJECT/bill002.x		  // ビル002 6
+MODEL_FILENAME = data/MODEL/OBJECT/skytree.x		  // スカイツリー 7
+MODEL_FILENAME = data/MODEL/OBJECT/kaminarimon.x	   // 雷門 8
+MODEL_FILENAME = data/MODEL/OBJECT/rafficlights.x	   // 信号機 9
+MODEL_FILENAME = data/MODEL/OBJECT/street.x			   // 街灯 10
+MODEL_FILENAME = data/MODEL/OBJECT/horse000.x		   // 家000 11
+MODEL_FILENAME = data/MODEL/OBJECT/horse001.x		   // 家001 12
+MODEL_FILENAME = data/MODEL/OBJECT/statueofLiberty.x    // 自由の女神 13
+MODEL_FILENAME = data/MODEL/OBJECT/box.x               #プレゼントボックス 14
+
+#------------------------------------------------------------------------------
+#  マップ情報
+#------------------------------------------------------------------------------
+MAPSET
+	FIELD_FILENAME = data/TEXT/MAP/FIELD/field000.txt				# 地面の情報が書かれたテキストファイル名
+	OBJECT_FILENAME = data/TEXT/MAP/OBJECT/object.txt				# 配置物の情報が書かれたテキストファイル名
+	MOUNTAIN_FILENAME = data/TEXT/MAP/MOUNTAIN/mountain000.txt		# 山の情報が書かれたテキストファイル名
+	SKY_FILENAME = data/TEXT/MAP/SKY/sky000.txt						# 空の情報が書かれたテキストファイル名
+	ENEMY_FILENAME = data/TEXT/MAP/ENEMY/enemy_set000.txt			# 敵の情報が書かれたテキストファイル名
+	BILLBOARD_FILENAME = data/TEXT/MAP/BILLBOARD/billboard000.txt	# 配置用ビルボード情報が書かれたテキストファイル名
+	EFFECT_FILENAME = data/TEXT/MAP/EFFECT/set_effect000.txt		# 配置エフェクトの情報が書かれたテキストファイル名
+	WALL_FILENAME = data/TEXT/MAP/WALL/wall000.txt					# 壁情報が書かれたテキストファイル名
+	PLAYER_DEFAULT_SPAWN = 0.0 0.0 0.0								# プレイヤーのデフォルトスポーン位置
+	CAMERA_DEFAULT_ROT = 0.0 0.0 0.0								# カメラのデフォルト向き
+END_MAPSET
+
+END_SCRIPT			#この行は絶対に消さないこと！
